@@ -69,4 +69,4 @@ Students are expected to work on a project that produces a **professional-qualit
 
 ## License
 
-All materials under *kiratijuta/vms.android.2022* are released under the MIT license. [See LICENSE](https://github.com/Kiratijuta/vms.android.2022/blob/main/LICENSE.md) for details.
+All materials under *kiratijuta/vms.android.2022* are released under the MIT license. [See LICENSE](https://github.com/Kiratijuta/vms.android.2022/blob/main/LICENSE) for details.

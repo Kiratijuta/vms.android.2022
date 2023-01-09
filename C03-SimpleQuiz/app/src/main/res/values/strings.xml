@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">Simple Quiz</string>
+
+    <string name="default_question">Question Loading...</string>
+    <string name="no_button">NO</string>
+    <string name="yes_button">YES</string>
+    <string name="next_button">NEXT</string>
+
+    <string name="question1">Is China is the largest country in the world?</string>
+
+    <string name="correct_toast">Your answer is correct 👍</string>
+    <string name="incorrect_toast">Your answer is incorrect. Try again!</string>
+
+</resources>

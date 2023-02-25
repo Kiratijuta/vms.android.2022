@@ -21,6 +21,12 @@ class SchoolRepository private constructor(context: Context) {
     fun getStudents(): LiveData<List<Student>> = studentDao.getStudents()
     fun getStudent(id: UUID): LiveData<Student> = studentDao.getStudent(id)
 
+    fun deleteStudents() {
+        executor.execute {
+            studentDao.deleteStudents()
+        }
+    }
+
     fun addStudent(student: Student) {
         executor.execute {
             studentDao.insertStudent(student)

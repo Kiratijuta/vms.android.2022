@@ -20,6 +20,8 @@ class MainActivity : AppCompatActivity() {
 
         listView.layoutManager = LinearLayoutManager(this)
 
+//        SchoolRepository.get().deleteStudents()
+
 //        addStudentToDatabase()
         getStudentFromDatabaseToListView()
     }

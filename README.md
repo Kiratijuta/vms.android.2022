@@ -30,13 +30,13 @@ The grades would be officially posted by the Registration Office. All assignment
 ## Course Project Overview 🔥
 Students are expected to work on a project that produces a **professional-quality** Android application. The aim of the project is to apply/develop the Android application from the course content for real-world scenarios. Work is done individually or in pair. The course project assessment will include project conception, design, and implementation. The assessment details are as follows.
 
-| Tasks | Score | Related Due Date |
-| :--- | :---: | :---: |
-| Proposal and Mock-up | 3% | TBC |
-| Prototype and Transition | 3% | TBC |
-| Project Difficulty | 6% | TBC |
-| Complete Work and Functionality | 28% | TBC |
-| Google Play Store Approval (optional) | 5% | TBC |
+| Tasks | Score |
+| :--- | :---: |
+| Proposal and Mock-up | 3% | 
+| Prototype and Transition | 3% |
+| Project Difficulty | 6% |
+| Complete Work and Functionality | 28% | 
+| Google Play Store Approval (optional) | 5% |
 | **Total** | **40%** |
 
 ## Class Outline 🧑🏻‍🏫
@@ -58,13 +58,12 @@ Students are expected to work on a project that produces a **professional-qualit
 | 10 | 1 Feb | **Term Project Follow-up** |
 |   | ~ | 🚨 **Project Presentation:** `Prototype and Transition` |
 | 11 | 8 Feb | **Database and the Room Library** `Creating a Database` `Defining Entities` `Database Class` `Type Converter` `Data Access Object (DAO)` `Accessing the Database using the Repository Pattern` `Testing Queries` |  |
-| 12 | 15 Feb | **HTTP and Background Tasks** `Networking Basics with Retrofit` `Defining an API Interface` `Web Request` `Network Permission` `Fetching JSON` `Deserializing JSON into Model Object` |  |
-| 13 | 22 Feb | **Hands-on Firebase** |  |
-| 14 | 1 Mar | **Taking Photo, App Dialog, App Bar** `Creating the menu` `Responding to menu selections` `Using the Android Asset Studio` `Creating a DialogFragment` `Showing a DialogFragment` `DatePickerDialog.OnDateSetListener` `Sending data to Activity from Fragment`| |
-| 15 | 8 Mar | 🤼 **Google Map Challenge** |
-| | 8 Mar | **Data Binding and MVVM** |
-| | TBC | 🚨 **Project Presentation:** `Complete Work and Demonstration` |
-| | THC | **Online Final Examination** |
+| 12 | 15 Feb | **Exercise Review** |  |
+| 13 | 22 Feb | **HTTP and Background Tasks** `Networking Basics with Retrofit` `Defining an API Interface` `Web Request` `Network Permission` `Fetching JSON` `Deserializing JSON into Model Object` |  |
+| 14 | 1 Mar | **Exercise Review** | |
+| 15 | 8 Mar | **Final Examination Preparation** |
+| | 16 Mar | **Final Examination (on-site)** |
+| | 17-20 Mar | 🚨 **Project Presentation:** `Complete Work and Demonstration` |
 
 
 ## License
